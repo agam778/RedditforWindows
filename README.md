@@ -14,5 +14,8 @@ To Install RedditforWindows, [Click Here](https://media.githubusercontent.com/me
 ## Running Without Installer
 If you don't want to install the app, [Download the ZIP File here](https://github.com/agam778/RedditforWindows/archive/main.zip). Now extract the contents of the zip file and run `RedditforWindows.exe`.
 
-## Warning
+## AntiVirus Warning
 If the file is detected as a virus, It is a **False Positive ❌**. Either add this app to your Anti-Virus Exclusion List or Turn off your Antivirus to run it.
+
+## More
+If you encounter any problem or want me to add something, Contact me at 'agampreet628@gmail.com'
